@@ -1,6 +1,6 @@
 ---
 title: ContentIndex
-tags:
+tags: s
   - plugin/emitter
 ---
 
@@ -20,7 +20,7 @@ This plugin accepts the following configuration options:
 - `rssSlug`: Slug to the generated RSS feed XML file. Defaults to `"index"`.
 - `includeEmptyFiles`: If `true` (default), content files with no body text are included in the generated index and resources.
 
-## API
+## API s
 
 - Category: Emitter
 - Function name: `Plugin.ContentIndex()`.
